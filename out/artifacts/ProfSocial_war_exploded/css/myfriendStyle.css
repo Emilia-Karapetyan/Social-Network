@@ -1,0 +1,33 @@
+.image{
+    width: 130px;
+    height: 130px;
+    position: relative;
+}
+.im{
+    display: inline-block;
+    margin:10px;
+    position: relative;
+}
+.btn{
+    width: 110px;
+}
+
+.hide{
+    display: none;
+}
+.in{
+    display: inline-block;
+    position: fixed;
+    right: 9px;
+    width: 230px;
+    border: 1px solid;
+    background: #343A40;
+    z-index: 10;
+}
+.mr-sm-2{
+    position: relative;
+    left: 536px;
+    display: inline-block;
+    width: 230px;
+
+}

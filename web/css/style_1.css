@@ -1,0 +1,26 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #17a2b8;
+    height: 100vh;
+}
+#confirm::placeholder{
+    color: red;
+    opacity: 1;
+}
+#w::placeholder{
+    color: red;
+    opacity: 1;
+}
+#login .container #login-row #login-column #login-box {
+    max-width: 600px;
+    border: 1px solid #9C9C9C;
+    background-color: #EAEAEA;
+}
+#login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+}
