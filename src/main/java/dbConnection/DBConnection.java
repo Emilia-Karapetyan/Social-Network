@@ -8,7 +8,7 @@ public class DBConnection {
     private final String DRIVER_PATH="com.mysql.jdbc.Driver";
     private final String URL = "jdbc:mysql://localhost:3306/socialbase?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
     private final String USER = "root";
-    private final String PASSWORD = "root";
+    private final String PASSWORD = "";
 
     private static DBConnection instance=new DBConnection();
 
