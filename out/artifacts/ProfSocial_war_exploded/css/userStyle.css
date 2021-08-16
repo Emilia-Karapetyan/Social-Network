@@ -1,0 +1,119 @@
+.date>.pic>img{
+    width: 100px;
+    margin: 10px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    flex-wrap: wrap;
+}
+.date{
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 20px;
+    border: 2px solid;
+    /*height: 300px;*/
+    width: 300px;
+    border-radius: 10px;
+}
+.param{
+    display: inline-block;
+    position: absolute;
+    margin-top: 10px;
+}
+.pic{
+    display: inline-block;
+}
+.addPhoto>a>img{
+    width: 25px;
+}
+.addPhoto{
+    margin-left: 15px;
+}
+.btn-danger{
+    margin-left: 15px;
+    margin-top: 60px;
+}
+.btn-primary{
+    margin-left: 15px;
+    margin-top: 60px;
+}
+.postFriend{
+    position: relative;
+    display: inline-block;
+    top:11px;
+    margin-left: 162px;
+    vertical-align: top;
+}
+.im{
+    width: 250px;
+    height: 250px;
+}
+.btn-dark{
+    width: 193px;
+    margin-top: 5px;
+}
+.getLike{
+    display: inline-block;
+}
+.like{
+    width: 20px;
+    height: 30px;
+}
+.chat {
+    width: 250px;
+    height: 130px;
+    overflow: scroll;
+    border: 1px solid;
+    padding: 5px;
+}
+.str{
+    position: relative;
+}
+.usMsg{
+    border: 1px solid gray;
+    border-radius: 15px;
+    background: gray;
+    color: white;
+    padding: 2px;
+}
+.container{
+    margin-bottom: 30px;
+}
+.t{
+    border: 1px solid aliceblue;
+    background: #cac7c7;
+    margin-top: 10px;
+    padding: 10px 15px 5px;
+    width: 250px;
+}
+.i{
+    border: navajowhite;
+    padding: 4px 10px;
+    margin-top: 5px;
+}
+.btn1{
+    border: none;
+    background: white;
+    position: relative;
+    top: -15px;
+}
+.hide{
+    display: none;
+}
+.in{
+    display: inline-block;
+    position: fixed;
+    right: 9px;
+    width: 230px;
+    border: 1px solid;
+    background: #343A40;
+    z-index: 10;
+}
+.mr-sm-2{
+    position: relative;
+    left: 536px;
+    display: inline-block;
+    width: 230px;
+
+}
